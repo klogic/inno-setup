@@ -1,4 +1,4 @@
-## Inno Setup with Nodejs
+## Inno Setup with NodeJS
 
 Create Setup.exe file with Inno Setup. execute ISSC.exe from Nodejs and pass parameter through child_process.spawn()
 
